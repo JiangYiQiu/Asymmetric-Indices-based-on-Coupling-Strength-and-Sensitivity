@@ -5,11 +5,11 @@ The code is written in Python and implemented in a Jupyter Notebook format (Anal
 ## 📌 Overview
 We propose three novel Asymmetric Indices (AIs) to characterize the differential sensitivity of vegetation to precipitation under dry vs. wet conditions:
 
-### AIₛ: Based on slope differences of linear fits
+*  AIₛ: Based on slope differences of linear fits
 
-### AIᵣ: Based on correlation coefficient differences
+* AIᵣ: Based on correlation coefficient differences
 
-### AIₑ: Based on extreme-value deviations
+* AIₑ: Based on extreme-value deviations
 
 These indices are computed globally using multiple long-term satellite-derived and climate datasets (NDVI, LAI, GPP, precipitation) at 0.25° and 0.5° spatial resolutions.
 
